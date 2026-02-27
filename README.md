@@ -41,10 +41,6 @@
 
 ---
 
-## 📂 Projects
-
-👉 Add your GitHub project links here  
-
 ---
 
 ## 📊 Future Focus
